@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\bin\Debug\net8.0\clase8-POO.exe
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\bin\Debug\net8.0\clase8-POO.deps.json
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\bin\Debug\net8.0\clase8-POO.runtimeconfig.json
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\bin\Debug\net8.0\clase8-POO.dll
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\bin\Debug\net8.0\clase8-POO.pdb
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.sourcelink.json
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.dll
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\refint\clase8-POO.dll
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.pdb
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\clase8-POO.genruntimeconfig.cache
+C:\Users\Alejandro\source\repos\PROGRAMACION 1\clase8-POO\obj\Debug\net8.0\ref\clase8-POO.dll
